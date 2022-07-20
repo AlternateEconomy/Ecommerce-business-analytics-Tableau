@@ -4,7 +4,7 @@ A small illustration of how to use Tableau for business analyst-like decision ma
 Through this notebook, a couple of facets are illustrated:
 
 A. From the dataset we try to answer some important questions from sales data which include:
-i. Which is the most purchased product
+i. Which is the most purchased product<br>
 ii. Which country purchases most products
 iii. Which product is most purchased by country - groups (where we create different groups of countries)
 iv. What is the avg. price movement through months (where we extract months from date)
